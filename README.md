@@ -1,2 +1,4 @@
 Basic algorithms in C++
-\textit{t}
+\begin{markdown}
+     \input{/path/to/GitHub/project/readme.md}
+\end{markdown}
